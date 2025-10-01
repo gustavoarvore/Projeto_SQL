@@ -11,13 +11,13 @@ where state = 'SC'
 select distinct state 
 from sales.customers
 
---exemplo 2
+-- exemplo 2
 
 select email, state
 from sales.customers
 where state = 'SC' or state = 'MS'
 
---exemplo 3
+-- exemplo 3
 
 select email, state, birth_date
 from sales.customers
