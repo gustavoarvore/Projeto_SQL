@@ -1,0 +1,2 @@
+-- comando UNION ALL junta todas as linhas, incluindo as duplicadas
+-- comando UNION junta todas as linhas com exceção das duplicadas
